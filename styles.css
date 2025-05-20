@@ -186,7 +186,7 @@ HIGHLIGHTS
     bottom: 1px;
     left: 0;
     z-index: 1;
-    transform: translateY(-100%); rotate: (180deg);
+    transform: translateY(100%) rotate(180deg);
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -213,7 +213,7 @@ HIGHLIGHTS
 }
 
 .highlight__img {
-    border: 2px solid #7342d65d;
+    border: 2px solid #7342d6;
     color: #7342d6;
     width: 100px;
     height: 100px;
@@ -234,5 +234,5 @@ HIGHLIGHTS
 
 #features {
     height: 1000px;
-    background-color: rgba(115, 66, 214, 0.1);
+    background-color: rgba(56, 13, 73, 0.1);
 }
