@@ -7,5 +7,7 @@
 			"path": "assets"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "E-commerce-1"
+	}
 }
