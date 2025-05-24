@@ -104,7 +104,7 @@ li {
     bottom: 0;
     z-index: 100;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     display: none;
 
 }
@@ -404,4 +404,6 @@ footer {
     .nav__links {
         display: none;
     }
+.btn__menu {
+    display: block;}
 }
